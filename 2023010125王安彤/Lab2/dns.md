@@ -133,7 +133,7 @@ gcc dns_lookup.c -o dns_lookup
 
 **嵌入截图：**
 
-![alt text](dns_rep.png)
+![alt text](dns_req.png)
 
 ---
 
